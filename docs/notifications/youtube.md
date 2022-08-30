@@ -9,7 +9,7 @@
 
 | Name | Example | Usage |
 | :--- | :--- | :--- |
-| **[youtube\|yt] &lt;name&gt; [channel] [message]** | !yt https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw #cool-math-channel {everyone} our lord just uploaded a new video {link} | Adds the youtuber. If no channel is specified the channel the command was used in gets used. |
+| **[youtube\|yt] &lt;name&gt; [channel] [message]** | !yt https://youtube.com/channel/UCi8ZXAz1keUyMJ-9seRT0kA #youtube {everyone} our lord just uploaded a new video {link} | Adds the youtuber. If no channel is specified the channel the command was used in gets used. |
 | **yt list** | !yt list | Shows all registered youtube channels and where they announce new streams |
 | **yt sub &lt;name&gt; [channel] [message]** | !yt sub https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw #cool-math-channel {everyone} our lord just uploaded a new video {link}  | Same as !yt |
 | **yt unsub &lt;name&gt;** | !yt unsub https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw | Removes a youtube subscription streamer. |
